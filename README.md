@@ -7,3 +7,8 @@
 5. **现代化的异常处理**：使用 `sys.exit()` 来退出程序并提供错误消息。
 6. **使用 Python 3 的字符串格式化**：保持代码的现代化和易读性，使用 f-strings（格式化字符串字面量）来提高代码的可读性。
 7. **使用 `argparse` 处理命令行参数**：确保使用 `argparse` 模块来处理命令行参数，提供帮助信息和默认值。
+
+
+### 使用效果
+![image](https://github.com/user-attachments/assets/ba81d57a-55ce-48ec-8350-006604f88dbe)
+![image](https://github.com/user-attachments/assets/bfa84ea8-253a-4767-8309-2fb990f010ac)
